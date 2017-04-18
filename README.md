@@ -1,5 +1,5 @@
 # highcharts-scatter-csv
-Highcharts XY scatter chart template with CSV data
+Relationship between Income and Grades between British Districts
 
 ## link to live chart (replace with your own link)
 https://jackdougherty.github.io/highcharts-scatter-csv/index.html
